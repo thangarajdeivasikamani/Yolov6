@@ -132,6 +132,8 @@ $ python clientApp.py
 ![image](https://user-images.githubusercontent.com/46878296/185969671-881a2dbf-9d7a-431a-be22-89205730165b.png)
 
 
+- Download the output.mp4 sample video and check
+
 
 Reference or Original work:
 
