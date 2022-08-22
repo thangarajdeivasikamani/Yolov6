@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/Ineuron_DeepLearning/YOLO_6_Custom/dataset/trafic_data/images/train
+val: /content/drive/MyDrive/Ineuron_DeepLearning/YOLO_6_Custom/dataset/trafic_data/images/valid
+test: /content/drive/MyDrive/Ineuron_DeepLearning/YOLO_6_Custom/dataset/trafic_data/images/test
+# whether it is coco dataset, only coco dataset should be set to True.
+is_coco: False
+nc: 21
+names: ['ambulance', 'army vehicle', 'auto rickshaw', 'bicycle', 'bus', 'car', 'garbagevan', 'human hauler', 'minibus', 'minivan', 'motorbike', 'pickup', 'policecar',
+ 'rickshaw', 'scooter', 'suv', 'taxi', 'three wheelers -CNG-', 'truck', 'van', 'wheelbarrow']
